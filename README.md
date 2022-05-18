@@ -1,4 +1,4 @@
-### Implement using MongoDB, Express, Node and Typescript
+### Implemented using MongoDB, Express, Node and Typescript
 
 
 
