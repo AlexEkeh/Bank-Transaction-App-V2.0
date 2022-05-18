@@ -1,4 +1,3 @@
 # Bank-Transaction-App-V2.0-
 
-# Technologies Used
-MongoDB, Express, Node, Typescript
+# Built with MongoDB, Express, Node, Typescript
